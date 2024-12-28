@@ -1,0 +1,21 @@
+{
+  "name": "code-manager",
+  "version": "1.0.0",
+  "description": "a simple manager for different codes",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+    
+  },
+  "keywords": [
+    "express",
+    "code"
+  ],
+  "author": "satvik upadhyaya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
